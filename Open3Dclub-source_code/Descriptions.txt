@@ -1,0 +1,236 @@
+﻿
+1._gif_BiCba_Antiq living tabel_Dimensions:_Volume_Printing time:;
+2._gif_Gah-Gah, BiCba_Precl_Dimensions: 94.3x90.0x66.5cm_Volume: 160032.8cm3_Printing time5h05min:;
+3._gif_Gah-Gah_Flower-Sink_Dimensions: 80.0x40.0x26.0cm_Volume: 3965.6cm3_Printing time:1h05min;
+4._gif_Andro_Vase_m2-s_Dimensions:15.3x15.3x27.3cm_Volume:1211.2cm3_Printing time:0h35min;
+
+5._gif_Gah-Gah_Vase_surface_Dimensions:15.0x15.0x12.0cm_Volume:337.4cm3_Printing time:0h17min;
+6._gif_Gah-Gah_Voronoi Table_Dimensions:62.2x62.2x40.7cm_Volume:18351.0cm3_Printing time:2h38min;
+7._gif_Gah-Gah_Spondge_Dimensions:72.3x181.0x65.7cm_Volume:83686.3cm3_Printing time:3h55min;
+8._gif_Gah-Gah_Knot pendant_Dimensions:cm_Volume:cm3_Printing time:;
+
+9._gif_Bicba_Modular_Dimensions:cm_Volume:cm3_Printing time:;
+10._gif_Gah-Gah_Fruit bowl_Dimensions:38.6x31.4x9.5cm_Volume:145.0cm3_Printing time:0h16min;
+11._gif_BiCba,Tweet_Linea chair_Dimensions:cm_Volume:cm3_Printing time:;
+12._gif_Gah-Gah_Edgeless cube_Dimensions:7.5x7.5x7.5cm_Volume:68.2cm3_Printing time:0h9min;
+
+13._gif_BiCba_Spagetti Lamp_Dimensions:cm_Volume:cm3_Printing time:;
+14._gif_Lucianne_Flower chair_Dimensions:38.8x48.1x107.1cm_Volume:15840.0cm3_Printing time:2h20min;
+15._gif_BiCba_Wawe-Sink_Dimensions:80.0x45.0x21.0cm_Volume:2209.5cm3_Printing time:0h50min;
+16._gif_Gah-Gah_Flower_Dimensions:120.0x40.0x15.0cm_Volume:7203.7cm3_Printing time:1h18min;
+
+17._gif_Tweet_Twysty glass_Dimensions:7.8x6.8x22.9cm_Volume:45.2cm3_Printing time:0h8min;
+18._gif_BiCba_Flower armchair_Dimensions:100.0x100.0x75.3cm_Volume:197564.1(max 283463.0)cm3_Printing time:6h18min;
+19._gif_BiCba_Spyral glass_Dimensions:5.1x5.1x19.3cm_Volume:60.3cm3_Printing time:0h10min;
+20._gif_Gah-Gah_Leaf_Dimensions:79.0x47.0x38.0cm_Volume:6653.7cm3_Printing time:1h05min;
+
+21._gif_Gah-Gah_Cells_Dimensions14.5x11.7x8.1:cm_Volume:43.3cm3_Printing time:0h9min;
+22._gif_BiCba_Continuum_Dimensions:cm_Volume:cm3_Printing time:;
+23._gif_BiCba_Shell_Dimensions:cm_Volume:cm3_Printing time:;
+24._gif_Gah-Gah_X-table_Dimensions:70.0x70.0x45.0cm_Volume:23653.5cm3_Printing time:2h38min;
+
+25._gif_Gah-Gah_Bubble-table_Dimensions:80.0x60.0x41.5cm_Volume:50160.0cm3_Printing time:3h57min;
+26._gif_Kizo,Gah-Gah_Voronoi table No.2_Dimensions:62.2x62.2x40.5cm_Volume:76945.2cm3_Printing time:4h49min;
+27._gif_Gah-Gah,Tweet_Sitting-ribs_Dimensions:150.4x58.4x45.0cm_Volume:73688.0cm3_Printing time:4h38min;
+28._gif_Gah-Gah_Tree chair_Dimensions:58.0x58.0x120.0cm_Volume:33179.0cm3_Printing time2h49min:;
+
+29._gif_Gah-Gah_Butterfly_Dimensions:102.8x63.0x42.5cm_Volume:14646.2cm3_Printing time2h03min;
+30._gif_Gah-Gah_Simple_Dimensions:80.0x40.0x14.0:cm_Volume:10169.6cm3_Printing time:1h35min;
+31._gif_BiCba,Andro_Sahara_Dimensions:cm_Volume:cm3_Printing time:;
+32._gif_BiCba, Gah-Gah_Voronoi pencilholder_Dimensions:cm_Volume:cm3_Printing time:;
+
+33._gif_Gah-Gah_15 helix_Dimensions:cm_Volume:cm3_Printing time:;
+34._gif_Gah-Gah_Nest ring_Dimensions:cm_Volume:cm3_Printing time:;
+35._gif_Kizo_Cilinder light_Dimensions:cm_Volume:cm3_Printing time:;
+36._gif_Gah-Gah_Spike ring_Dimensions:cm_Volume:cm3_Printing time:;
+
+37._gif_Gah-Gah_Linea chair_Dimensions:cm_Volume:cm3_Printing time:;
+38._gif_Gah-Gah_Nest tree_Dimensions:cm_Volume:cm3_Printing time:;
+39._gif_Gah-Gah,Kizo_LA Lakers_Dimensions:cm_Volume:cm3_Printing time:;
+40._gif_BiCba_Blanket chair_Dimensions:cm_Volume:cm3_Printing time:;
+
+41._gif_Gah-Gah_Rocking bones_Dimensions:cm_Volume:cm3_Printing time:;
+42._gif_Gah-Gah_butterfly ring_Dimensions:cm_Volume:cm3_Printing time:;
+43._gif_Andro,Gah-Gah_Lace_Dimensions:cm_Volume:cm3_Printing time:;
+44._gif_BiCba, Tweet_Water seat_Dimensions:cm_Volume:cm3_Printing time:;
+
+45._gif_Gah-Gah_Hug_Dimensions:cm_Volume:cm3_Printing time:;
+46._gif_BiCba_Pyramid glass_Dimensions:cm_Volume:cm3_Printing time:;
+47._gif_Gah-Gah_Aladin_Dimensions:cm_Volume:cm3_Printing time:;
+48._gif_BiCba_Medusa_Dimensions:cm_Volume:cm3_Printing time:;
+
+49._gif_Gah-Gah_Spiral ribs_Dimensions:cm_Volume:cm3_Printing time:;
+50._gif_BiCba_Monumental_Dimensions:cm_Volume:cm3_Printing time:;
+51._gif_Gah-Gah_Spider web_Dimensions:cm_Volume:cm3_Printing time:;
+52._gif_Gah-Gah_Daisy_Dimensions:cm_Volume:cm3_Printing time:;
+
+53._gif_Gah-Gah_Knitting glass_Dimensions:cm_Volume:cm3_Printing time:;
+54._gif_BiCba_Strech_Dimensions:cm_Volume:cm3_Printing time:;
+55._gif_Gah-Gah_Pipes_Dimensions:cm_Volume:cm3_Printing time:;
+56._gif_Gah-Gah_Aladin-double_Dimensions:cm_Volume:cm3_Printing time:;
+
+57._gif_Gah-Gah_Origami_Dimensions:cm_Volume:cm3_Printing time:;
+58._gif_BiCba_O!_Dimensions:cm_Volume:cm3_Printing time:;
+59._gif_Gah-Gah_Bracehole_Dimensions:cm_Volume:cm3_Printing time:;
+60._gif_Gah-Gah_Lotos_Dimensions:cm_Volume:cm3_Printing time:;
+
+61._gif_Gah-Gah_Bumps_Dimensions:cm_Volume:cm3_Printing time:;
+62._gif_Gah-Gah_Knot_Dimensions:cm_Volume:cm3_Printing time:;
+63._gif_BicBa_Snake bar_Dimensions:cm_Volume:cm3_Printing time:;
+64._gif_BicBa_Gyroid table_Dimensions:cm_Volume:cm3_Printing time:;
+
+65._gif_BiCba_Lego_Dimensions:cm_Volume:cm3_Printing time:;
+66._gif_BiCba_Stripes_Dimensions:cm_Volume:cm3_Printing time:;
+67._gif_BiCba_Spiral spike_Dimensions:cm_Volume:cm3_Printing time:;
+68._gif_Gah-Gah_Roads_Dimensions:cm_Volume:cm3_Printing time:;
+
+69._gif_BiCba_Orchid armchair_Dimensions:cm_Volume:cm3_Printing time:;
+70._gif_Tj,BiCba_Muppet armchair_Dimensions:cm_Volume:cm3_Printing time:;
+71._gif_Andro, Tweet_Harmonica hi bar_Dimensions:cm_Volume:cm3_Printing time:;
+72._gif_BiCba_Melted glass_Dimensions:cm_Volume:cm3_Printing time:;
+
+73._gif_BiCba_Purple armchair_Dimensions:cm_Volume:cm3_Printing time:;
+74._gif_BiCba_Sava raft_Dimensions:cm_Volume:cm3_Printing time:;
+75._gif_Xym,BiCba_Quatropus glass_Dimensions:cm_Volume:cm3_Printing time:;
+76._gif_BiCba_Bird-leg glass_Dimensions:cm_Volume:cm3_Printing time:;
+
+77._gif_BiCba_Spiral 15_Dimensions:cm_Volume:cm3_Printing time:;
+78._gif_BiCba_Harmonica_Dimensions:cm_Volume:cm3_Printing time:;
+79._gif_Xym,BiCba_Krofna_Dimensions:cm_Volume:cm3_Printing time:;
+80._gif_BiCba_Ameba chair_Dimensions:cm_Volume:cm3_Printing time:;
+
+81._gif_Gah-Gah_First_Dimensions:cm_Volume:cm3_Printing time:;
+82._gif_BiCba_Tornado_Dimensions:cm_Volume:cm3_Printing time:;
+83._gif_Andro, Tweet_Harmonica table_Dimensions:cm_Volume:cm3_Printing time:;
+84._gif_Gah-Gah_Knot table_Dimensions:cm_Volume:cm3_Printing time:;
+
+85._gif_BiCba_Hexa chair_Dimensions:cm_Volume:cm3_Printing time:;
+86._gif_Gah-Gah_Knot tabouret_Dimensions:cm_Volume:cm3_Printing time:;
+87._gif_Tweet_Zebra-Tebra_Dimensions:cm_Volume:cm3_Printing time:;
+88._gif_Gah-Gah_Triangle Necklace_Dimensions:cm_Volume:cm3_Printing time:;
+
+89._gif_BiCba_Origami glass_Dimensions:cm_Volume:cm3_Printing time:;
+90._gif_Gah-Gah_Vase_Dimensions:cm_Volume:cm3_Printing time:;
+91._gif_Tweet, BiCba_Shell_Dimensions:cm_Volume:cm3_Printing time:;
+92._gif_Gah-Gah_Vase twist_Dimensions:cm_Volume:cm3_Printing time:;
+
+
+93._gif_Tweet_Splash chair_Dimensions:cm_Volume:cm3_Printing time:;
+94._gif_Gah-Gah_Bubble hi bar_Dimensions:38.8x48.1x107.1cm_Volume:15840.0cm3_Printing time:2h20min;
+95._gif_Gah-Gah_Twist ribs baceket_Dimensions:cm_Volume:cm3_Printing time:;
+96._gif_BiCba, Xym_Rocking chair_Dimensions:cm_Volume:cm3_Printing time:;
+
+
+97._gif_Gah-Gah_Triangle vase_Dimensions:cm_Volume:cm3_Printing time:;
+98._gif_Andro, Tweet_Fly table_Dimensions:cm_Volume:cm3_Printing time:;
+99._gif_Tweet_Hole chair_Dimensions:cm_Volume:cm3_Printing time:;
+100._gif_GahGah_Tripod table_Dimensions:cm_Volume:cm3_Printing time:;
+
+101._gif_Xym_Cell table_Dimensions:cm_Volume:cm3_Printing time:;
+102._gif_Gah-Gah_Iphone 5s Splash case_Dimensions:cm_Volume:cm3_Printing time:;
+103._gif_Tweet_Coral table_Dimensions:cm_Volume:cm3_Printing time:;
+104._gif_Tweet_Spike vase_Dimensions:cm_Volume:cm3_Printing time:;
+
+105._gif_Andro_Fence lamp_Dimensions:cm_Volume:cm3_Printing time:;
+106._gif_Gah-Gah_Wave table_Dimensions:cm_Volume:cm3_Printing time:;
+107._gif_Xym, BicBa_Dodecaedron table_Dimensions:cm_Volume:cm3_Printing time:;
+108._gif_GahGah_Iphone 5s Voronoi case_Dimensions:cm_Volume:cm3_Printing time:;
+
+109._gif_Tweet_Smash vase_Dimensions:cm_Volume:cm3_Printing time:;
+110._gif_Andro_Spider web table_Dimensions:cm_Volume:cm3_Printing time:;
+111._gif_Andro_Fence Lustre_Dimensions:cm_Volume:cm3_Printing time:;
+112._gif_GahGah_Spike bracelet_Dimensions:cm_Volume:cm3_Printing time:;
+
+113._gif_BicBa_Simple_Dimensions:cm_Volume:cm3_Printing time:;
+114._gif_GahGah_Iphone 5s Web case_Dimensions:cm_Volume:cm3_Printing time:;
+115._gif_Xym_Stripes luster_Dimensions:cm_Volume:cm3_Printing time:;
+116._gif_GahGah_Wheel_Dimensions:cm_Volume:cm3_Printing time:;
+
+117._gif_GahGah_Nest chair No.2_Dimensions:cm_Volume:cm3_Printing time:;
+118._gif_Tweet_Wire bracelet_Dimensions:cm_Volume:cm3_Printing time:;
+119._gif_BicBa_Simple No.2_Dimensions:cm_Volume:cm3_Printing time:;
+120._gif_GahGah_Sunbed_Dimensions:cm_Volume:cm3_Printing time:;
+
+121._gif_Andro_Holes luster_Dimensions:cm_Volume:cm3_Printing time:;
+122._gif_BicBa_Double-sided glass_Dimensions:cm_Volume:cm3_Printing time:;
+123._gif_Tweet_Dining set No.1_Dimensions:cm_Volume:cm3_Printing time:;
+124._gif_Andro, Xym_Layers_Dimensions:cm_Volume:cm3_Printing time:;
+
+125._gif_BiCba_Holy bowl_Dimensions:cm_Volume:cm3_Printing time:;
+126._gif_GahGah_Cross_Dimensions:cm_Volume:cm3_Printing time:;
+127._gif_BicBa, Tweet_Melted glass_Dimensions:cm_Volume:cm3_Printing time:;
+128._gif_GahGah_Iphone 5s Aes Sedai case_Dimensions:cm_Volume:cm3_Printing time:;
+
+129._gif_BicBa_Double-sided glass No.2_Dimensions:cm_Volume:cm3_Printing time:;
+130._gif_Tweet_Zigzag_Dimensions:cm_Volume:cm3_Printing time:;
+131._gif_GahGah_Y_Dimensions:cm_Volume:cm3_Printing time:;
+132._gif_Tweet_Dining set No.2_Dimensions:cm_Volume:cm3_Printing time:;
+
+133._gif_Xym_Skies_Dimensions:cm_Volume:cm3_Printing time:;
+134._gif_GahGah_Bold_Dimensions:cm_Volume:cm3_Printing time:;
+135._gif_BicBa_Shoot_Dimensions:cm_Volume:cm3_Printing time:;
+136._gif_BicBa_Variation_Dimensions:cm_Volume:cm3_Printing time:;
+
+137._gif_GahGah, Andro_Tornado_Dimensions:cm_Volume:cm3_Printing time:;
+138._gif_GahGah_Gyroid vase_Dimensions:cm_Volume:cm3_Printing time:;
+139._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+140._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+
+141._gif_BiCba_Varies_Dimensions:cm_Volume:cm3_Printing time:;
+142._gif_GAhgah, BicBa_Gyroid bracelet_Dimensions:cm_Volume:cm3_Printing time:;
+143._gif_GahGah, Tweet_Table O_Dimensions:cm_Volume:cm3_Printing time:;
+144._gif_Xym, Andro_Tripodus_Dimensions:cm_Volume:cm3_Printing time:;
+
+145._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+146._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+147._gif_GahGah, Tweet_Coral table_Dimensions:cm_Volume:cm3_Printing time:;
+148._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+
+149._gif_BiCba_Varies_Dimensions:cm_Volume:cm3_Printing time:;
+150._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+151._gif_GahGah, Tweet_Table O_Dimensions:cm_Volume:cm3_Printing time:;
+152._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+
+153._gif_BiCba, Tweet_Blue_Dimensions:cm_Volume:cm3_Printing time:;
+154._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+155._gif_GahGah, Tweet_Table O_Dimensions:cm_Volume:cm3_Printing time:;
+156._gif_GahGah_Molecule_Dimensions:cm_Volume:cm3_Printing time:;
+
+157._gif_BiCba_Varies_Dimensions:cm_Volume:cm3_Printing time:;
+158._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+159._gif_GahGah, Tweet_Table O_Dimensions:cm_Volume:cm3_Printing time:;
+160._gif_GahGah_Stool_Dimensions:cm_Volume:cm3_Printing time:;
+
+161._gif_BiCba_Varies_Dimensions:cm_Volume:cm3_Printing time:;
+162._gif_GahGah_Sea chair_Dimensions:cm_Volume:cm3_Printing time:;
+163._gif_GahGah, Tweet_Table O_Dimensions:cm_Volume:cm3_Printing time:;
+164._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+
+165._gif_BiCba_Varies_Dimensions:cm_Volume:cm3_Printing time:;
+166._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+167._gif_GahGah, Tweet_Table O_Dimensions:cm_Volume:cm3_Printing time:;
+168._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+
+169._gif_BiCba_Varies_Dimensions:cm_Volume:cm3_Printing time:;
+170._gif_Tweet, GahGah_Propeler_Dimensions:cm_Volume:cm3_Printing time:;
+171._gif_GahGah, Tweet_Gyroid egg_Dimensions:cm_Volume:cm3_Printing time:;
+172._gif_Xym, Gahgah_Grow_Dimensions:cm_Volume:cm3_Printing time:;
+
+173._gif_BiCba_Varies_Dimensions:cm_Volume:cm3_Printing time:;
+174._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+175._gif_GahGah, Tweet_Table O_Dimensions:cm_Volume:cm3_Printing time:;
+176._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+
+177._gif_BiCba_Varies_Dimensions:cm_Volume:cm3_Printing time:;
+178._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+179._gif_GahGah, Tweet_Table O_Dimensions:cm_Volume:cm3_Printing time:;
+180._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+
+181._gif_BiCba_Varies_Dimensions:cm_Volume:cm3_Printing time:;
+182._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+183._gif_GahGah, Tweet_Table O_Dimensions:cm_Volume:cm3_Printing time:;
+184._gif_xxx_xxx_Dimensions:cm_Volume:cm3_Printing time:;
+
+
+
+
