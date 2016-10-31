@@ -1,0 +1,401 @@
+#header {   
+	height: 50px;  
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-top: auto;
+	border:0px; 
+	border-radius:5px; 
+	padding:0px; 
+	background-color:black; 
+	position:fixed; 
+	top:0px; 
+	left:5px; 
+	right:5px;
+	z-index:100;
+}
+
+#header:hover {
+	transition: 1s;  
+	height: 100px;
+	margin-left: auto; 
+	margin-right: auto;
+	border:0px; 
+	border-radius:5px; 
+	padding:0px; 
+	background-color:black;
+}
+
+#headerManifesto {   
+	height: 50px;  
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-top: auto;
+	border:0px; 
+	border-radius:5px; 
+	padding:0px; 
+	background-color:black; 
+	position:fixed; 
+	top:0px; 
+	left:5px; 
+	right:5px;
+	z-index:100;
+}
+
+.main_section { 
+	max-width: 1470px; 
+	height:700px; 
+	margin-left: auto;
+	margin-right: auto;  
+	margin-top:100px; 
+	border:0px;           
+}
+
+/*  
+.main_section:active { 
+	max-width: 360px; 
+	height:700px; 
+	margin-left: 208px;
+	margin-right: auto;  
+	margin-top:100px; 
+	border:0px; 
+}	  
+*/
+  
+.picture { 
+	max-width:336px; 
+	max-height:200px; 
+	min-width:336px; 
+	min-height:200px; 
+	border-radius:5px; 
+	margin:14px; 
+	background-color:white;  
+	
+	
+	box-shadow:0px 5px 010px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 0px 5px 010px rgba(0, 0, 0, 0.3);
+	-moz-box-shadow: 0px 5px 010px rgba(0, 0, 0, 0.3);  
+}
+        
+.picture:hover {
+	transform:scale(1.00);
+	-webkit-transform:scale(1.00);
+	-moz-transform:scale(1.00);
+	-ms-transform:scale(1.00);
+	-o-transform:scale(1.00);
+	
+	-webkit-box-shadow: 0 58px 36px -56px black;
+	-moz-box-shadow: 0 58px 36px -56px black;
+	box-shadow: 0 58px 36px -56px black;
+ }
+ 
+.picture:hover {
+	/*transition: .5s; */
+	max-width:336px; 
+	max-height:180px; 
+	min-width:336px; 
+	min-height:180px; 
+	border-radius:5px;
+	padding-bottom:20px;
+	background-color:black;
+	margin:14px; 
+	
+	box-shadow: 0 58px 36px -56px black; 
+	-webkit-box-shadow: 0 58px 36px -56px black;
+	-moz-box-shadow: 0 58px 36px -56px black;   
+ }
+  
+/*   	
+.picture:active {
+	transition: 2s;
+	max-width: 1200px; 
+	max-height: 643px;
+	padding-bottom:28px;
+	background-color:black;
+	position:fixed; top:100px; right:218px;          
+}
+*/
+
+#tric1 {  
+	margin-left:15px;height:50px;/* border-radius:5px; box-shadow:5px 5px 5px rgba(255, 255, 255, 0.3);
+*/ }
+#tric2 {  
+	margin-right:15px;height:50px;
+  }
+#tric_finger {  
+	margin-left:15px;height:80px; position:fixed; top:50px; left:15px;
+}
+
+#tric3 {  
+	max-width:1200px; max-height:600px;  border-radius:5px;
+	margin:10px; background-color:white;
+}
+
+#tric3:hover {  
+	transition: 1s;
+	border-radius:5px; box-shadow:0px 5px 010px rgba(0, 0, 0, 0.3);
+	margin:20px; background-color:white;
+	transform:scale(1.1);
+	-webkit-transform:scale(1.05);
+	-moz-transform:scale(1.05);
+	-ms-transform:scale(1.05);
+	-o-transform:scale(1.05);
+}
+
+p { 
+	text-align: center; 
+	color: grey;
+	font-family: Calibri;
+	font-style:italic;
+	font-weight: Strong;
+	font-size:20px;
+	position:fixed; top:2px; 
+	left:200px; right:auto;
+}
+
+.pManifesto { 
+	text-align: center;
+	color: grey;
+	font-family: Calibri;
+	font-style: italic;
+	font-weight: Strong;
+	font-size: 20px;
+	position: fixed;
+	top: 20px;
+	left: 200px;
+	right: auto;
+}
+
+/* Velika slika */
+.divPicture {
+	max-width: 1200px; 
+	max-height: 683px;
+	padding-bottom:28px;
+	background-color:black;
+	position:fixed; 
+	top:100px; 
+	right:218px; 
+	display:none;
+	border: 0px;          
+}
+
+.divPictureActive {	
+	position: fixed;
+	/* ovo mora dinamicki da se racuna, na osnovu sirine prozora
+	left: 440px; */
+	top: 100px;
+	/*
+	position: fixed;
+	float: right;
+	*/
+	/*display: inline-block;*/
+	/*float: right;*/
+	width: 1070px;  
+	border: 0px;   
+	/*position: relative;  ovo je da bismo mogli divove unutar ovog da pozicioniramo apsolutno */
+}  
+
+.divAllPicturesActive{
+	float: left;
+	border: 0px;  
+} 
+
+.divAllPictures{
+	max-width: 360px;
+	float: left;   
+	border: 0px;           
+}  
+
+.relative{
+	position: relative;
+}
+
+.divImg{
+	max-width:336px; max-height:200px; min-width:336px; min-height:200px;
+}
+      
+.pictureActive {
+	transition: 2s;
+	max-width: 1200px; 
+	max-height: 643px;
+	padding-bottom:28px;
+	background-color:black;
+	
+	/* 
+	position:fixed; 
+	top:125px; 
+	right:218px;  
+	*/
+	
+	/* hover */
+	/*  
+	transform:scale(1.00);
+	-webkit-transform:scale(1.00);
+	-moz-transform:scale(1.00);
+	-ms-transform:scale(1.00);
+	-o-transform:scale(1.00);
+	*/
+	
+	-webkit-box-shadow: 0 58px 36px -56px black;
+	-moz-box-shadow: 0 58px 36px -56px black;
+	box-shadow: 0 58px 36px -56px black;  
+				 
+	transition: .5s; 
+	/*
+	max-width:336px; max-height:180px; min-width:336px; min-height:180px; 
+	*/
+	 
+	border-radius:5px;padding-bottom:20px;background-color:black;
+	box-shadow: 0 58px 36px -56px black;       
+}
+
+.mainSectionActive {
+	width: 1470px; 
+	height:700px;             
+	margin-top:100px;
+	border:0px;  
+	/*
+	max-width: 360px; 
+	height:700px; 
+	margin-left: 208px;
+	margin-right: auto;  
+	margin-top:100px; 
+	border:0px;   
+	*/       
+}
+
+div.img
+{
+	/*margin:5px;
+	padding: 5px;
+	border:1px solid #0000ff;
+	height:auto;
+	width:auto;          
+	float:left;*/
+	text-align:center;
+	border: 0px;  
+	position: relative;
+	/**/
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+}  
+
+div.imgText{
+	position: absolute;
+	bottom: 20px;
+	left: 25px;
+	color: white;
+	font-family: calibri;
+}
+
+div.bigImgText{
+	position: absolute;
+	bottom: 5px;
+	left: 65px;
+	color: white;
+	font-family: calibri;
+}
+
+div.imgContainer{
+	/*margin:5px;
+	padding: 5px;
+	border:1px solid #0000ff;
+	height:auto;
+	width:auto;*/
+	float:left;
+	text-align:center;
+	border: 0px;
+}  
+
+.close {
+	position: absolute;
+	right: 10px;
+	/*padding:2px 5px;
+	background: #ccc;*/
+	cursor: pointer;
+	background-image: url(../images/icons/dialog_close.png);
+	width: 40px;
+	height: 40px;   
+}  
+
+.play {
+	position: absolute;
+	left: 10px;
+	display: inline-block;
+	cursor: pointer;
+	background-image: url(../images/icons/knob_play.png);
+	width: 40px;
+	height: 40px;  
+}    
+
+.pause {
+	position: absolute;
+	left: 10px;
+	display: none;
+	cursor: pointer;
+	background-image: url(../images/icons/knob_pause.png);
+	width: 40px;
+	height: 40px;  
+}
+
+.print {
+	position: absolute;
+	right: 0px;
+	bottom: 25px;
+	cursor: pointer;
+	background-image: url(../images/icons/agt_print.png);
+	width: 200px;
+	height: 60px;  
+	background-repeat: no-repeat;
+	background-position: right bottom;
+}
+
+.print:hover {
+	background-image: url(../images/icons/black_down.png);   
+}
+
+/* Mail Form */
+
+div.content {
+	text-align: center;
+	margin-top: 120px;
+}
+
+div.policyAndMail{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	width: 1250px;		
+}
+
+div.mpcontent {
+	height: 450px;
+	position: relative;
+	top: 50px;
+}
+
+div.bitcoinDonation {
+	float: left;
+	background-image: url(../images/bitcoinDonations.jpg);
+	height: 230px;
+	width: 1200px;
+}
+
+table.mailForm {
+	position: relative;
+	left: 230px;
+}
+
+table.mailForm td{
+	padding: 5px;	
+}
+
+li.calibris{
+	font-family: calibri;
+	font-style: italic;
+	font-size: x-large;
+}
+
+.fileInput {
+	font-family: calibri;
+}
