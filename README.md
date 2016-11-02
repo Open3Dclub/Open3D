@@ -6,6 +6,4 @@ Professional background of our team is 3D modelling, CNC milling, architectural 
 
 We have made 3D prize page (http://open3d.club/Prize/index.php) as a place to announce bounties for website development. Programmers and software developers who solve the first set of problems will take over the IT part of the platform and get in charge of future development.
 
-Hope we can work together on this project
-Contact us on open3dclub@gmail.com
-Thanks
+Hope we can work together on this project. Contact us on open3dclub@gmail.com
