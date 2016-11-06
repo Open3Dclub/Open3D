@@ -19,7 +19,7 @@
   		<a href= "http://www.open3d.club/index.php">
   			<img id="tric1" src="download.png" >
   		</a>
-  		<p >"The ultimate purpose of invention is the complete mastery of mind over the material world" </p>  
+  		<p >"The ultimate purpose of invention is the complete mastery of mind over the material world" Nikola Tesla </p>  
   		<a href= "http://www.open3d.club/Prize/index.php">
   			<img id="tric2" src="3DPrizes.png" align="right" >
   		</a>  			

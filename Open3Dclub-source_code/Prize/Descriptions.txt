@@ -1,14 +1,27 @@
-1._https://www.youtube.com/watch?v=jzDHj4CEmQQ_gif_Structure of Platform_1 mBTC_STL files uploaded and sorted out through naming system                     [1G17F7YEbJoinTMZtVVyLDztNtBkKqphf5];
-2._https://www.youtube.com/watch?v=MHo7naKBaIo_gif_Geometry Data_1 mBTC_ Measurements like width, height, volume presented from STL file                    [1ADAZJ35EPmFb7KZBvLMxkjDkYq5grcKmg];
-3._https://www.youtube.com/watch?v=MHo7naKBaIo_gif_InBrowser Interactivity _1 mBTC_Interactive presentation out of STL file                                 [1NFKAzHsASiXenvzpiDA2NFpwV76mFRu3J];
-4._https://www.youtube.com/watch?v=MHo7naKBaIo_gif_InBrowser Render Engine_1 mBTC_Material presentation out of STL file                                     [193RbU2XbtRasxZggvLFJ1F5DyCh4siFzV];
+1._https://www.youtube.com/v/MHo7naKBaIo_gif_Structure of Platform_1 mBTC_STL files uploaded and sorted out through naming system                     [1G17F7YEbJoinTMZtVVyLDztNtBkKqphf5];
 
-5._https://www.youtube.com/watch?v=MHo7naKBaIo_gif_3D Printing Stores on Map_1 mBTC_ Location of 3D printing stores around, with their contact information  [1NgPnoarY3XEuETTZZPuk8n8J2R5TqyUVo];
-6._https://www.youtube.com/watch?v=MHo7naKBaIo_gif_Website Tracking Menager_1 mBTC_ Web traffic analytics and statistics                                    [149Q3VBUtQGG5eAt27GEdKeV78xKrPPXYQ];
-7._https://www.youtube.com/watch?v=MHo7naKBaIo_gif_0?Advertisement _1 mBTC_Automatic system for advertisement on web platform                               [1GqknrK6dHZ1Y7CdCAGPszRD5kdt3kL677];
-8._https://www.youtube.com/watch?v=MHo7naKBaIo_gif_Synchronising Across Platforms_1 mBTC_Optimisation for mobile devices and smaller screens                [13Vr9gtMbGSX7VRHk4RT1dMcbcXi82e5aq];
+2._https://www.youtube.com/v/MHo7naKBaIo_gif_Geometry Data_1 mBTC_ Measurements like width, height, volume presented from STL file                    [1ADAZJ35EPmFb7KZBvLMxkjDkYq5grcKmg];
 
-9._https://www.youtube.com/watch?v=MHo7naKBaIo_gif_Decentralised Autonomus Organisation_1 mBTC_Open source decentralisation of all areas of platform        [12irFVbXwCDtVvbXPwFUbJSfRR3evnPN1d];
-10._https://www.youtube.com/watch?v=MHo7naKBaIo_gif_Gesture control_1 mBTC_New era of interaction with technology                                           [1NNbPUTrygjRo7Xx3C5Yntqwq9NfiS7QP1];
-11._https://www.youtube.com/watch?v=MHo7naKBaIo_gif_Parametric modeling_1 mBTC_Mass custimisation of all models and control trough parametric modeling      [1QBNfigi1dqyanQJgzeFoDvnEemmkDTT8X];
-12._https://www.youtube.com/watch?v=MHo7naKBaIo_gif_Parallel reality_1 mBTC_Virtual reality & augmented reality, emerging new platforms                     [1GHEzYU4Lax24uHeaJpHPHoootj1NwAvHF];
+3._https://www.youtube.com/v/MHo7naKBaIo_gif_InBrowser Interactivity _1 mBTC_Interactive presentation out of STL file                                 [1NFKAzHsASiXenvzpiDA2NFpwV76mFRu3J];
+
+4._https://www.youtube.com/v/MHo7naKBaIo_gif_InBrowser Render Engine_1 mBTC_Material presentation out of STL file                                     [193RbU2XbtRasxZggvLFJ1F5DyCh4siFzV];
+
+
+
+5._https://www.youtube.com/v/MHo7naKBaIo_gif_3D Printing Stores on Map_1 mBTC_ Location of 3D printing stores around, with their contact information  [1NgPnoarY3XEuETTZZPuk8n8J2R5TqyUVo];
+
+6._https://www.youtube.com/v/MHo7naKBaIo_gif_Website Tracking Menager_1 mBTC_ Web traffic analytics and statistics                                    [149Q3VBUtQGG5eAt27GEdKeV78xKrPPXYQ];
+
+7._https://www.youtube.com/v/MHo7naKBaIo_gif_0?Advertisement _1 mBTC_Automatic system for advertisement on web platform                               [1GqknrK6dHZ1Y7CdCAGPszRD5kdt3kL677];
+
+8._https://www.youtube.com/v/MHo7naKBaIo_gif_Synchronising Across Platforms_1 mBTC_Optimisation for mobile devices and smaller screens                [13Vr9gtMbGSX7VRHk4RT1dMcbcXi82e5aq];
+
+
+
+9._https://www.youtube.com/v/MHo7naKBaIo_gif_Decentralised Autonomus Organisation_1 mBTC_Open source decentralisation of all areas of platform        [12irFVbXwCDtVvbXPwFUbJSfRR3evnPN1d];
+
+10._https://www.youtube.com/v/MHo7naKBaIo_gif_Gesture control_1 mBTC_New era of interaction with technology                                           [1NNbPUTrygjRo7Xx3C5Yntqwq9NfiS7QP1];
+
+11._https://www.youtube.com/v/MHo7naKBaIo_gif_Parametric modeling_1 mBTC_Mass custimisation of all models and control trough parametric modeling      [1QBNfigi1dqyanQJgzeFoDvnEemmkDTT8X];
+
+12._https://www.youtube.com/v/MHo7naKBaIo_gif_Parallel reality_1 mBTC_Virtual reality & augmented reality, emerging new platforms                     [1GHEzYU4Lax24uHeaJpHPHoootj1NwAvHF];
