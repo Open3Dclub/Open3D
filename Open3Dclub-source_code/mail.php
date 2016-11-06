@@ -217,7 +217,7 @@ function IsInjected($str)
 								<td><input type="file" name="uploaded_file" placeholder="Attach 3D model..."></td>
 							</tr>							
 							<tr>
-								<td colspan="4"><textarea type="text" name="message" class="form-control" placeholder="All fildes above have to be filled in before sending 3Dmodel... This big message file is an optional" rows="5" cols="110"></textarea></td>							
+								<td colspan="4"><textarea type="text" name="message" class="form-control" placeholder="STL files accepted onley. By uploading files to www.Open3D.club you do accept our Terms and Principles. Please fill up all fields above before sending any 3D Model." rows="5" cols="110"></textarea></td>							
 							</tr>
 							<tr>
 								<td colspan="4"><input type="submit" value="Send" name='submit' class="btn btn-default"></td>
